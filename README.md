@@ -13,6 +13,11 @@ Para que possamos inicializar um projeto em pygame, nada mais viável termos as 
 ```
 pip install pygame
 ```
+Em seguida, você já está pronto para importar a biblioteca e inicializar o projeto. Você fará isso toda vez que desenvolver um novo projeto de game em Python.
+```
+import pygame
+pygame.init()
+```
 
 <p align="center">
   <img width="320" height="320" src="https://github.com/wander-asb/game/blob/main/persona.gif?raw=true">
