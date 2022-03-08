@@ -1,6 +1,5 @@
-![capa](https://camo.githubusercontent.com/9273635605d3c9d9c2454f42b0a8db64bbd4ae0bd1ef7c35958bdc7cc05b3315/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3634302f302a6e72387866497269756c433165496b572e706e67)
 <p align="center">
-  <img width="460" height="300" src="https://camo.githubusercontent.com/9273635605d3c9d9c2454f42b0a8db64bbd4ae0bd1ef7c35958bdc7cc05b3315/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3634302f302a6e72387866497269756c433165496b572e706e67">
+  <img width="612" height="344" src="https://media.istockphoto.com/photos/in-the-evening-creative-young-video-game-developer-works-on-a-desktop-picture-id1269257082?k=20&m=1269257082&s=612x612&w=0&h=Mye_TRDhGAPGFUOJzUngulazxi-pI_8DwRT3c_kosA4=">
 </p>
 
 ## Desenvolvimento de jogos 
