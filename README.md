@@ -1,4 +1,4 @@
-!(capa)[https://media.istockphoto.com/photos/in-the-evening-creative-young-video-game-developer-works-on-a-desktop-picture-id1269257082?k=20&m=1269257082&s=612x612&w=0&h=Mye_TRDhGAPGFUOJzUngulazxi-pI_8DwRT3c_kosA4=]
+![capa](https://media.istockphoto.com/videos/in-the-evening-creative-middle-aged-video-game-developer-works-on-a-video-id1158855427?s=640x640)
 
 ## Desenvolvimento de jogos 
 
