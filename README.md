@@ -10,9 +10,9 @@ O principal objetivo deste repositório é comentar as etapas de estudos que ven
 ### Importação e inicialização de biblioteca
 Para que possamos inicializar um projeto em pygame, nada mais viável termos as ferramentas necessárias para criar do zero nosso projeto. Dainte disse, esepra-se que você já possua instalado o framework Pygame, caso contrário, é só jogar o código abaixo no prompt do Python ou do Anaconda e esperar instalar na sua máquina.
 
-'''
+```
 pip install pygame
-'''
+```
 
 <p align="center">
   <img width="320" height="320" src="https://github.com/wander-asb/game/blob/main/persona.gif?raw=true">
