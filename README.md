@@ -18,6 +18,14 @@ Em seguida, você já está pronto para importar a biblioteca e inicializar o pr
 import pygame
 pygame.init()
 ```
+### Desenvolvimento de tela
+O desenvolvimento de tela do game é uma etapa simples, mas que iremos interagir ao longo do projeto. Então, imagine comigo um pedaço de papel que será realizado uma redação, mais ou menos 30 linhas por exemplo, nessa folha, você precisa colocar o nome do local que você está fazendo a redação e dissertar, certo? É isto que iremos fazer logo embaixo:
+```
+pygame.display.set_caption('MEU PRIMEIRO JOGO") //Aqui chamamos nossa biblioteca (local da redação), no display (nossa folha de redação) setamos um caption (título da redação)
+
+WINDOW_SIZE = (400, 400) //Apresentamos o tamanho da nossa tela de jogo
+```
+
 
 <p align="center">
   <img width="320" height="320" src="https://github.com/wander-asb/game/blob/main/persona.gif?raw=true">
