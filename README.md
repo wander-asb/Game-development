@@ -9,5 +9,5 @@ O principal objetivo deste repositório é comentar as etapas de estudos que ven
 
 ### Inicialização e planejamento de tela
 <p align="center">
-  <img width="640" height="640" src="https://github.com/wander-asb/game/blob/main/persona.gif?raw=true">
+  <img width="320" height="320" src="https://github.com/wander-asb/game/blob/main/persona.gif?raw=true">
 </p>
