@@ -8,3 +8,6 @@
 O principal objetivo deste repositório é comentar as etapas de estudos que venho realizando em desenvolvimento de jogos, inicialmente utilizo o framework Pygame e ainda não tenho autoria completa nas sprites utilizadas, ou seja, não foi feito por mim. Porém, para planejar e exemplicar a experiência que irei ter, utilizarei de tais mecanismos de apresentação.
 
 ### Inicialização e planejamento de tela
+<p align="center">
+  <img width="640" height="640" src="https://github.com/wander-asb/game/blob/main/persona.gif?raw=true">
+</p>
