@@ -1,4 +1,4 @@
-![capa](https://media.istockphoto.com/videos/in-the-evening-creative-middle-aged-video-game-developer-works-on-a-video-id1158855427?s=640x640)
+![capa](https://camo.githubusercontent.com/9273635605d3c9d9c2454f42b0a8db64bbd4ae0bd1ef7c35958bdc7cc05b3315/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3634302f302a6e72387866497269756c433165496b572e706e67)
 
 ## Desenvolvimento de jogos 
 
