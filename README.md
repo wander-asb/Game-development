@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="612" height="344" src="https://media.istockphoto.com/photos/in-the-evening-creative-young-video-game-developer-works-on-a-desktop-picture-id1269257082?k=20&m=1269257082&s=612x612&w=0&h=Mye_TRDhGAPGFUOJzUngulazxi-pI_8DwRT3c_kosA4=">
+  <img width="845" height="321" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTosKHRt3KwaQ0ce4KoFtBC3ulFuJafkwBe8Q&usqp=CAU">
 </p>
 
 ## Desenvolvimento de jogos com Python
