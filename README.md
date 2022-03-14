@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="845" height="321" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTosKHRt3KwaQ0ce4KoFtBC3ulFuJafkwBe8Q&usqp=CAU">
+  <img width="1024" height="576" src="https://brasilcode.com.br/wp-content/uploads/2020/03/curso-de-games-1-1024x576.jpg">
 </p>
 
 ## Desenvolvimento de jogos com Python
