@@ -27,8 +27,3 @@ pygame.display.set_caption('MEU PRIMEIRO JOGO")
 //Apresentamos o tamanho da nossa tela de jogo
 WINDOW_SIZE = (400, 400) 
 ```
-
-
-<p align="center">
-  <img width="320" height="320" src="https://github.com/wander-asb/game/blob/main/persona.gif?raw=true">
-</p>
